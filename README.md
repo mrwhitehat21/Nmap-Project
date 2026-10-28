@@ -11,3 +11,7 @@ The main purpose of this project is to gain practical knowledge of network scann
 - hbueb
 - jhckj
 - bvetkjtveb
+
+## identify target
+<img width="1920" height="991" alt="Metasploitable2-Linux - VMware Workstation 10_28_2026 5_22_28 PM" src="https://github.com/user-attachments/assets/86c2cf6e-c098-41a2-9aae-0d6518c0c8e8" />
+
