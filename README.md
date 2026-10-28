@@ -15,3 +15,7 @@ The main purpose of this project is to gain practical knowledge of network scann
 ## identify target
 <img width="1920" height="991" alt="Metasploitable2-Linux - VMware Workstation 10_28_2026 5_22_28 PM" src="https://github.com/user-attachments/assets/86c2cf6e-c098-41a2-9aae-0d6518c0c8e8" />
 
+## step1:- perform besic nmap scan
+exmaple **nmap -sn 192.168.203.146**
+
+<img width="1920" height="991" alt="Metasploitable2-Linux - VMware Workstation 10_28_2026 5_24_36 PM" src="https://github.com/user-attachments/assets/753f3799-b583-4ea3-838d-d1ca0f04a989" />
